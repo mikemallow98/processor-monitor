@@ -4,7 +4,9 @@ This project displays the approximate processor usage on LED's on an Arduino. I 
 
 ----------------SETUP----------------
 
-Coming soon: Arduino wiring schematic once I have time to make one and figure out how. Until then, here's a written description:
+![pin layout](https://github.com/mikemallow98/processor-monitor/blob/master/pin_layout.PNG)
+
+This layout is a little messy so I made the GND wire green so it's a bit easier to see. If the image is still confusing, here's a written description. 
 
 Pin2->LED1->GND
 
